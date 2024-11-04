@@ -23,8 +23,8 @@ Follow these steps to install or update the Cursor application on your Arch Linu
 
 1. **Clone the Repository** (if applicable) or download the script directly:
    ```bash
-   git clone https://github.com/kosa12/update_cursor
-   cd https://github.com/kosa12/update_cursor
+   git clone https://github.com/kosa12/cursor_update
+   cd https://github.com/kosa12/cursor_update
 
 2. **Make the Script Executable**: Open a terminal and run the following command to make the installation script executable:
 
